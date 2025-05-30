@@ -1,16 +1,13 @@
-## Hi there 👋
+🌐 Hello there!
+I'm Savelii — a network sorcerer & microcontroller tamer ⚡
 
-<!--
-**Sava234/Sava234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Embedded Systems • Electronics • Penetration Testing  
+💾 Bash • Python • C++ • Arduino • Linux • OSI Model • Networking  
+📡 Wireshark ninja • Router whisperer • Firewall magician  
 
-Here are some ideas to get you started:
+🧠 Reverse engineering • Protocol analysis • Cybersecurity enthusiast  
+🎮 Gaming • Tech DIY • Open Source • CLI is love  
+🐧 Arch Linux appreciator • Loves blinking LEDs with purpose 💡  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ Taming electrons one bit at a time ⚙️  
+![kyubey](https://github.com/user-attachments/assets/d5673299-8fbb-4a71-ba9c-585773214f2f)

@@ -1,13 +1,28 @@
-🌐 Hello there!
-I'm Savelii — a network sorcerer & microcontroller tamer ⚡
+### 🔐 **Savely Sobol | Security & SysAdmin Enthusiast**
+`Linux` `Networking` `Cybersecurity` `Automation`  
+ Dnipro, Ukraine ·  saveliisobol@gmail.com  
 
-🛠️ Embedded Systems • Electronics • Penetration Testing  
-💾 Bash • Python • C++ • Arduino • Linux • OSI Model • Networking  
-📡 Wireshark ninja • Router whisperer • Firewall magician  
+###  🛠 **Technical Arsenal**
+- **OS:** Linux (Debian/Ubuntu), BSD, Windows  
+- **Networking:** TCP/IP, DNS, VPN, iptables, Wireshark  
+- **Security:** OWASP Top 10, Burp Suite, Metasploit, IDS/IPS  
+- **Scripting:** `Bash` (systemd/cron), `Python` (pentest tools)  
+- **Other:** Git, MySQL, Docker (basic), Ansible (basic)  
 
-🧠 Reverse engineering • Protocol analysis • Cybersecurity enthusiast  
-🎮 Gaming • Tech DIY • Open Source • CLI is love  
-🐧 Arch Linux appreciator • Loves blinking LEDs with purpose 💡  
+#### 🔥 **Featured Projects**
+| Project | Description | Tech |
+|---------|-------------|------|
+| [auto-update-script](https://github.com/Sava234/auto-update-script) | Automated system updates with logging | `Bash` |
+| [firewall-autoconfig](https://github.com/Sava234/firewall-autoconfig) | iptables hardening for Linux servers | `Bash` `Networking` |
+| [simple-tcp-scanner](https://github.com/Sava234/simple-tcp-scanner) | Multithreaded port scanner | `Python` `Sockets` |
+| [pass-audit](https://github.com/Sava234/pass-audit) | Password strength analyzer | `Python` `Regex` |
 
-✨ Taming electrons one bit at a time ⚙️  
+#### 🌱 **Currently Exploring**
+- Active Directory security  
+- SIEM solutions (Wazuh, Graylog)  
+- Radio hacking (SDR, RFID)  
+
+#### 📚 **Learning Path**
+```text
+TryHackMe → HackTheBox → CTFs → Real-world labs
 ![kyubey](https://github.com/user-attachments/assets/d5673299-8fbb-4a71-ba9c-585773214f2f)

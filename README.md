@@ -1,4 +1,4 @@
-### 🔐 **Savely Sobol | Security & SysAdmin Enthusiast**
+###  **Savely Sobol | Security & SysAdmin Enthusiast**
 `Linux` `Networking` `Cybersecurity` `Automation`  
  Dnipro, Ukraine ·  saveliisobol@gmail.com  
 
@@ -9,11 +9,10 @@
 - **Scripting:** `Bash` (systemd/cron), `Python` (pentest tools)  
 - **Other:** Git, MySQL, Docker (basic), Ansible (basic)  
 
-#### 🌱 **Currently Exploring**
+####  **Currently Exploring**
 - Active Directory security  
-- SIEM solutions (Wazuh, Graylog)  
 - Radio hacking (SDR, RFID)  
 
-#### 📚 **Learning Path**
+####  **Learning Path**
 ```text
 TryHackMe → HackTheBox → CTFs → Real-world labs

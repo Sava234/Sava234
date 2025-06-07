@@ -9,7 +9,7 @@
 - **Other:** Git, MySQL, Docker (basic), Ansible (basic)  
 
 **Currently Exploring**
-- Active Directory security  
+- Security  
 - Radio hacking 
 
 ![kyubey](https://github.com/user-attachments/assets/21cff212-0df7-4310-bdb4-2b88b2873265)

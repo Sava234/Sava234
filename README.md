@@ -1,6 +1,6 @@
 **Savely Sobol | Security & SysAdmin Enthusiast**
 `Linux` `Networking` `Cybersecurity` `Automation`  
- Dnipro, Ukraine ·  saveliisobol@gmail.com  
+ Dnipro, Ukraine  
 
 - **OS:** Linux (NixOS/Arch), BSD, Windows  
 - **Networking:** TCP/IP, DNS, VPN, iptables, Wireshark  
